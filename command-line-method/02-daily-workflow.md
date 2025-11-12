@@ -20,5 +20,4 @@ git restore --staged <file>
 git reset --soft HEAD~1
 ```
 ---
-**Author:** Dr. Nuha BinTayyash — 2025  
-]
+

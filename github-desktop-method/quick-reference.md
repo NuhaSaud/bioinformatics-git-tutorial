@@ -8,5 +8,16 @@
 - Branch: Current Branch → New Branch
 - PR: View on GitHub → New Pull Request
 - Diff: Click a file under Changes
+
+### GitHub Desktop Cheat Sheet
+| Action | How To |
+|--------|--------|
+| See changes | Changes tab shows modified files |
+| Stage files | Files are auto-staged |
+| Commit | Write message → Commit to main |
+| Push | Push origin button |
+| Pull | Fetch origin button |
+| Branch | Current branch dropdown → New branch |
+| Merge | Create pull request on GitHub |
 ---
 

@@ -22,5 +22,5 @@ git branch -M main
 git push -u origin main
 ```
 ---
-**Author:** Dr. Nuha BinTayyash — 2025  
+
 

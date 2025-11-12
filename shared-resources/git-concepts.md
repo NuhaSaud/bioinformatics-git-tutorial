@@ -8,5 +8,4 @@
 - **Clone vs Fork:** Clone = local copy; Fork = your own copy on GitHub
 - **Stage → Commit → Push:** Select changes → save locally → upload
 ---
-**Author:** Dr. Nuha BinTayyash — 2025  
-**Affiliation:** CCIS-KSU · nfdp-genome · Fehim/FAHIS
+
