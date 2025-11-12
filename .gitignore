@@ -1,0 +1,12 @@
+# Docs-only repo
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+site/
+_build/
+.cache/
+*.tmp
+*.temp
+*.bak
+~$*
